@@ -1,16 +1,28 @@
-## Hi there 👋
+# 极速火箭官网地址
 
-<!--
-**JiSuHuoJian/JiSuHuoJian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+永久官网（有墙）：[https://极速火箭.com](https://极速火箭.com)
+最新无墙地址：[https://dash.jisuhuojian.store](https://dash.jisuhuojian.store)
 
-Here are some ideas to get you started:
+## 极速火箭机场简介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+极速火箭是一款老牌专线机场，全节点使用专线传输，并且购置了很大的宽带，所以用户不需要担心自己要和其他人抢宽带用，并且极速火箭配置了流媒体解锁服务，解锁 香港 日本 美国 新加坡等地区的流媒体，最大的亮点是作为专线机场价格十分友善，而且新用户注册既可免费试用
+
+## 特色
+
+* 中国大陆国际专线传输网络
+* 多种流媒体服务访问解锁
+* ChatGPT 服务访问解锁
+* 新用户免费试用
+* 不限速 不限设备
+* 适用于 SLA 保障
+
+## 极速火箭价格
+
+15元100G每月
+25元200G每月
+40元400G每月
+80元1TB每月
+
+永久流量包30元100G
+永久流量包60元250G
+永久流量包120元600G
